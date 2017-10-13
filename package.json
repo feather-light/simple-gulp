@@ -1,0 +1,23 @@
+{
+  "name": "simple-gulp",
+  "version": "0.1.0",
+  "description": "",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/feather-light/simple-template.git"
+  },
+  "author": "chaoshuai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/feather-light/simple-template/issues"
+  },
+  "homepage": "https://github.com/feather-light/simple-template#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
